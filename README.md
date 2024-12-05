@@ -1,5 +1,7 @@
 # 3D_Multi_Bird_Tracking
 
+This is the official repository representing Keon Moradi, Ethan Haque, Jasmeen Kaur, Eli Bridge, Alexandra Bentz, and Golnaz Habibi in their work 'Context-Aware Outlier Rejection for Robust Multi-View 3D Tracking of Similar Small Birds in An Outdoor Aviary' accepted into the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025. 
+
 ### Clone Git Repo
 ```shell
 git clone https://github.com/airou-lab/3D_Multi_Bird_Tracking.git
