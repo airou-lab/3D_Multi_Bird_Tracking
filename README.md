@@ -1,8 +1,7 @@
 # 3D_Multi_Bird_Tracking
 
-### Git
+### Clone Git Repo
 ```shell
-# clone repo
 git clone https://github.com/airou-lab/3D_Multi_Bird_Tracking.git
 ```
 
