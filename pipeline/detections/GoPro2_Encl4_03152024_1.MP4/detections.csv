@@ -1,0 +1,7 @@
+Frame,Path,Extra,Label,Confidence,xmin,ymin,xmax,ymax
+121,/Volumes/T7/Encl4_03152024/GoPro2/GoPro2_Encl4_03152024_1.MP4,6,train,0.26,1308,562,1614,892
+206,/Volumes/T7/Encl4_03152024/GoPro2/GoPro2_Encl4_03152024_1.MP4,77,teddy bear,0.26,604,403,763,788
+206,/Volumes/T7/Encl4_03152024/GoPro2/GoPro2_Encl4_03152024_1.MP4,77,teddy bear,0.32,606,402,758,500
+207,/Volumes/T7/Encl4_03152024/GoPro2/GoPro2_Encl4_03152024_1.MP4,23,giraffe,0.32,610,409,771,670
+541,/Volumes/T7/Encl4_03152024/GoPro2/GoPro2_Encl4_03152024_1.MP4,23,giraffe,0.33,382,450,494,544
+541,/Volumes/T7/Encl4_03152024/GoPro2/GoPro2_Encl4_03152024_1.MP4,23,giraffe,0.36,308,292,377,479

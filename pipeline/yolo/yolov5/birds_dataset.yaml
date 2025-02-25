@@ -1,0 +1,5 @@
+train: ../dataset/images  # path to training images
+val: ../dataset/images    # path to validation images (can be the same for now)
+
+nc: 1  # number of classes
+names: ['bird']  # list of class names
