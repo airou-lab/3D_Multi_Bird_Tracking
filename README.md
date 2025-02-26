@@ -245,3 +245,9 @@ The --workers option specifies the number of DataLoader workers. DataLoader work
 
 
 Note when I tried running these steps I kept get errors on MacOS due to SSL certificate verification on macOS. I had to use ChatGPT to fix the error, but once you do that if you run into these issues then you will be able to train the model
+### RUnning the outlier rejection pipeline
+
+
+```bash
+python pipeline/go.py 
+```
