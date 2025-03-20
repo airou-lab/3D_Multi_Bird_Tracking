@@ -252,4 +252,4 @@ Note when I tried running these steps I kept get errors on MacOS due to SSL cert
 python pipeline/go.py 
 ```
 ### Data To dublicate the result in WACV 2025 paper
-We have provided the dataframe we used for the result in WACV 2025 paper. These data is collected by two cameras 3 and 5 and frame numbers 2200-2561. You can download the data from this link
+We have provided the dataframe we used for the result in WACV 2025 paper. These data is collected by two cameras 3 and 5 and frame numbers 2200-2561. You can download the data from this <a href="https://drive.google.com/drive/folders/1hs-CBtxMYgAJ7YvL8ViWjTI4Vs9R4DF8?usp=drive_link" target="_blank">link </a>: 
